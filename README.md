@@ -62,6 +62,11 @@ lo que hago es crear unos archivos( archivo1 y archivo2) con el siguiente comand
 ### touch archivo2.txt && git add archivo2.txt && git commit -m " archivo2.txt"
  de esta manera le digo que me cree archivo1.txt y luego agregue el archivo y luego que haga el commit + el msj
 
+ ![4](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/0dc432d9-ce5b-49a6-b5bc-1d15f5199dde)
+Comando git log --oneline vemos yalos archivos creados
+
+
+
  
 
 
