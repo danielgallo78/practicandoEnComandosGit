@@ -32,6 +32,19 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 
 ![d](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/fcc8c1d2-108d-4c87-9bc5-2c76e0d93d7c)
 
+### Uso los comando git fetch.
+
+![f](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/a955970a-bf76-49f7-b242-738e447daa8d)
+
+![h](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/09b0626b-e245-41aa-920a-cceac82e8429)
+
+### y con el comando git checkout fetch_head me permite moverme entre la rama.
+
+### Con el comando git Switch lo que me permite es hacer una clonacion de esta rama oculta y tambien poder realizar cambios sin perjudicar a este mismo archivo.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
