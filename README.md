@@ -80,6 +80,14 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 ![7](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/15f5872b-aad4-4af4-a3fa-75608ba691c4)
 ![8](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/89be84c2-ec0d-4049-a898-41e35087e2b8)
 
+### Ahora voy a la rama ya creada ( desarrolloRebase) y vuelvo a crear otro archivo, este seria archivo4.txt 
+
+![9](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/216700f2-e986-4a10-96ff-2d5bc3844a95)
+
+### tenemos archivo1,archivo2,archivo4 en la rama desarrolloRebase y archivo3 en la rama master
+
+
+
 
 
 
