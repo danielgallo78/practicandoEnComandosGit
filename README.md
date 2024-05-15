@@ -87,6 +87,14 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 
 ### tenemos archivo1,archivo2,archivo4 en la rama desarrolloRebase y archivo3 en la rama master
 
+![10](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/bcc52ab6-57d3-492f-8625-fcdded1cbf6b)
+
+### Ahora tengo que traer el cambio de la rama master ( archivo3 ) a la rama desarrollo
+### aca es donde uso el comando git Rabase
+### Ej:
+### Git rabase master
+
+
 
 
 
