@@ -57,6 +57,7 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 ### una ves dentro.
 
 ![2](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/a7094cb4-a0de-4a47-8049-d2005853082a)
+
 ### lo que hago es crear unos archivos( archivo1 y archivo2) con el siguiente comando abreviado
 ### touch archivo1.txt && git add archivo1.txt && git commit -m " archivo1.txt"
 ### touch archivo2.txt && git add archivo2.txt && git commit -m " archivo2.txt"
