@@ -64,6 +64,13 @@ lo que hago es crear unos archivos( archivo1 y archivo2) con el siguiente comand
 
  ![4](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/0dc432d9-ce5b-49a6-b5bc-1d15f5199dde)
 Comando git log --oneline vemos yalos archivos creados
+![5](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/3cb1a8e5-0aca-4d1b-96f7-c3387134a321)
+Todo esto lo realice dentro de la rama creada ( desarrolloRebase)
+
+## Ahora viene la situacion que hay que reparar en master
+## entro dentro de la rama master (git checkout master) y una ves dentro..
+
+
 
 
 
