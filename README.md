@@ -44,6 +44,18 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
+## Comando Git Rebase
+### Trae los cambios de la rama principal hasta mi rama de desarrollo
+permite integrar cambios desde una rama a otra reescribiendo el historial de commits.
+##ej:
+### dentro de la terminal creo una rama con Git Branch y le doy de nombre desarrolloRebase 
+### git branch desarrolloRebase
+
+![file](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/59e565d9-5835-42a4-9d43-288b6cfe54a5)
+
+### luego git checkout desarrolloRebase para meterme dentro de la rama creada
+una ves dentro.
+
 
 
 
