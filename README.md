@@ -11,10 +11,10 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 * git checkout
 ----------------------------------------------------------------------------------
 ## Comando Fetch
-El comando git fetch se utiliza para descargar objetos y referencias desde otro repositorio.
-git fetch actualiza la copia local del repositorio remoto que fue clonada sin aplicar los cambios a la rama actual.
-ej:
-Hago una clonacion de archivo.
+### El comando git fetch se utiliza para descargar objetos y referencias desde otro repositorio.
+### git fetch actualiza la copia local del repositorio remoto que fue clonada sin aplicar los cambios a la rama actual.
+## ej:
+### Hago una clonacion de archivo.
 
 
 ![1](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/d6b75a73-bea4-4841-b145-de19aab24c5b)
@@ -27,6 +27,13 @@ Hago una clonacion de archivo.
 ### Archivo ya creado.
 
 ![c](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/a8f21444-cd7c-4152-8af2-1bf5178df24a)
+
+### Desde la terminal veo que el archivo no me lo muestra ya que es una rama oculta la cual se trae con el comando git Fetch.
+
+![d](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/fcc8c1d2-108d-4c87-9bc5-2c76e0d93d7c)
+
+
+
 
 
 
