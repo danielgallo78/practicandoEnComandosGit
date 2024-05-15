@@ -70,6 +70,12 @@ Todo esto lo realice dentro de la rama creada ( desarrolloRebase)
 ## Ahora viene la situacion que hay que reparar en master
 ## entro dentro de la rama master (git checkout master) y una ves dentro..
 
+![6](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/cad8a0cc-6e57-40ee-b00d-73a2f636d868)
+
+Creo otro archivo, el cual este va a resolver el problema que tengamos
+chequeo que el archivo3.txt se haya creado en la rama master.
+
+
 
 
 
