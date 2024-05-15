@@ -19,4 +19,14 @@ Hago una clonacion de archivo.
 
 ![1](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/d6b75a73-bea4-4841-b145-de19aab24c5b)
 
+### una ves clonado.
+
+![b](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/a7b39f4a-639a-4fbd-9541-5fa6fe21bdff)
+
+Luego agrego un archivo o realizo un cambio desde el repositorio remoto
+
+
+
+
+
 
