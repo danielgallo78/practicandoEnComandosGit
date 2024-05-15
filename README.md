@@ -108,8 +108,39 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 ### Comnaod LS veo que todos los archivos estan en la rama master
 ![14](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/c8f39b9b-23dc-45aa-b542-c2f0196f9767)
 
+----------------------------------------------------------------------------------------------------------------------------
 
+### Comando Git Reset ( soft - mixed - hard)
+### el comando Reset actua alterando y modificando el historial de commits.
+### Se le indica primero el commit donde quiero volver y lo que va hacer es borrar los commits que se hayan 
+### hecho despues del commit donde quiero llegar.
+### hay 3 tipos de reset 
+* Soft
+* Mixed ( este seria por defecto)
+* Hard
+### todas las opciones eliminan los commits pero de distinta manera
 
+### Ej:
+### git log --oneline
+### para ver los commits que tengo y asi poder elegir donde volver
+
+![log de los commits](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/b59cd1e2-e592-47cf-a2fc-0bf522e6ffb7)
+
+### usando el comando git reset --soft y el numero del commit que elija, ese hara un cambio y se movera al area de staging 
+### ya con los cambios hechos.
+### elijo llegar hasta usuario con telefono
+
+![2](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/7f49d072-0e62-4bbe-8b29-5174a4e4837a)
+
+### ahi veo que los cambios se modificaron correctamente y tambien se pueden ver en el workingdirectory
+
+### y en le caso de usar el comando git reset --hard y el numero de commit que en este caso me dirijo hasta el 
+### ususario con telefono.
+
+![3](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/6b7277e6-2ec7-4b45-aff3-d573840aca7c)
+
+### ahora en la imagen anterior se ve que desaparecio el usuario con direccion y usuario con localidad y tambien si 
+### hizo un git log y tampoco esta en el repositorio de Git.
 
 
 
