@@ -56,7 +56,7 @@ permite integrar cambios desde una rama a otra reescribiendo el historial de com
 ### luego git checkout desarrolloRebase para meterme dentro de la rama creada
 una ves dentro.
 
-![file (1)](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/62a886ad-95c6-4613-867d-24b83fae42e2)
+![2](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/a7094cb4-a0de-4a47-8049-d2005853082a)
 lo que hago es crear unos archivos( archivo1 y archivo2) con el siguiente comando abreviado
 ### touch archivo1.txt && git add archivo1.txt && git commit -m " archivo1.txt"
 ### touch archivo2.txt && git add archivo2.txt && git commit -m " archivo2.txt"
