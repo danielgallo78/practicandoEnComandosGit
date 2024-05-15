@@ -74,6 +74,8 @@ Todo esto lo realice dentro de la rama creada ( desarrolloRebase)
 
 Creo otro archivo, el cual este va a resolver el problema que tengamos
 chequeo que el archivo3.txt se haya creado en la rama master.
+![7](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/15f5872b-aad4-4af4-a3fa-75608ba691c4)
+![8](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/89be84c2-ec0d-4049-a898-41e35087e2b8)
 
 
 
