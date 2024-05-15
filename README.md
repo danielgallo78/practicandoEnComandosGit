@@ -51,7 +51,7 @@ permite integrar cambios desde una rama a otra reescribiendo el historial de com
 ### dentro de la terminal creo una rama con Git Branch y le doy de nombre desarrolloRebase 
 ### git branch desarrolloRebase
 
-![file](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/59e565d9-5835-42a4-9d43-288b6cfe54a5)
+![1](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/67c6ff5e-5bce-444e-9c58-e446359e7947)
 
 ### luego git checkout desarrolloRebase para meterme dentro de la rama creada
 una ves dentro.
