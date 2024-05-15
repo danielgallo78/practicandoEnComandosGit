@@ -9,3 +9,8 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 * git rebase
 * git reset
 * git checkout
+----------------------------------------------------------------------------------
+// Comando Fetch
+El comando git fetch se utiliza para descargar objetos y referencias desde otro repositorio.
+git fetch actualiza la copia local del repositorio remoto que fue clonada sin aplicar los cambios a la rama actual.
+ej:
