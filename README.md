@@ -63,8 +63,9 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 ### touch archivo2.txt && git add archivo2.txt && git commit -m " archivo2.txt"
 ### de esta manera le digo que me cree archivo1.txt y luego agregue el archivo y luego que haga el commit + el msj
 
- ![4](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/0dc432d9-ce5b-49a6-b5bc-1d15f5199dde) 
- 
+![3](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/96ff3585-e267-4d6d-a421-c867d72f9cc2)
+![4](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/0dc432d9-ce5b-49a6-b5bc-1d15f5199dde)
+  
 ### Comando git log --oneline vemos yalos archivos creados
 
 ![5](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/3cb1a8e5-0aca-4d1b-96f7-c3387134a321)
@@ -78,7 +79,6 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 ### Creo otro archivo, el cual este va a resolver el problema que tengamos
 ### chequeo que el archivo3.txt se haya creado en la rama master.
 
-![7](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/15f5872b-aad4-4af4-a3fa-75608ba691c4)
 ![8](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/89be84c2-ec0d-4049-a898-41e35087e2b8)
 
 ### Ahora voy a la rama ya creada ( desarrolloRebase) y vuelvo a crear otro archivo, este seria archivo4.txt 
