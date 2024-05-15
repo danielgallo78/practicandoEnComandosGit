@@ -94,6 +94,20 @@ esta es una carpeta de practica de algunos de los tantos comandos de Git. hecha 
 ### Ej:
 ### Git rabase master
 
+![11](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/c859314e-9476-4c16-8cb1-99b8b842c18c)
+
+### uso git log --oneline
+### veo que no solo tengo los archivos 1,2 y 4 sino tambien veo que tengo el archivo 3 que viene de master
+### Luego hago un git checkout master para hacer el merge de la rama desarrolloRebase
+
+![12](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/f5435d25-ac5a-44ab-8d5b-199e6781b927)
+
+### ya tengo los cambio realizados los cambios en la rama desarrolloRebase
+![13](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/4f636dbb-795c-438b-a411-0d6a74a8281c)
+
+### Comnaod LS veo que todos los archivos estan en la rama master
+![14](https://github.com/danielgallo78/practicandoEnComandosGit/assets/130160711/c8f39b9b-23dc-45aa-b542-c2f0196f9767)
+
 
 
 
